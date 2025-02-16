@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming related to lazy evaluation. The `primes.hs` file contains code that attempts to generate an infinite list of prime numbers, but due to how Haskell's lazy evaluation works, it does not terminate correctly. The `primesSolution.hs` file shows a corrected version that addresses this issue.
